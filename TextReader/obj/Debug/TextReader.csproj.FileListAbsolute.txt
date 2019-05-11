@@ -1,0 +1,15 @@
+c:\users\mufid\source\repos\TextReader\TextReader\bin\Debug\TextReader.exe.config
+c:\users\mufid\source\repos\TextReader\TextReader\bin\Debug\TextReader.exe
+c:\users\mufid\source\repos\TextReader\TextReader\bin\Debug\TextReader.pdb
+c:\users\mufid\source\repos\TextReader\TextReader\obj\Debug\TextReader.csprojAssemblyReference.cache
+c:\users\mufid\source\repos\TextReader\TextReader\obj\Debug\MainWindow.g.cs
+c:\users\mufid\source\repos\TextReader\TextReader\obj\Debug\App.g.cs
+c:\users\mufid\source\repos\TextReader\TextReader\obj\Debug\TextReader_MarkupCompile.cache
+c:\users\mufid\source\repos\TextReader\TextReader\obj\Debug\TextReader_MarkupCompile.lref
+c:\users\mufid\source\repos\TextReader\TextReader\obj\Debug\MainWindow.baml
+c:\users\mufid\source\repos\TextReader\TextReader\obj\Debug\TextReader.g.resources
+c:\users\mufid\source\repos\TextReader\TextReader\obj\Debug\TextReader.Properties.Resources.resources
+c:\users\mufid\source\repos\TextReader\TextReader\obj\Debug\TextReader.csproj.GenerateResource.cache
+c:\users\mufid\source\repos\TextReader\TextReader\obj\Debug\TextReader.csproj.CoreCompileInputs.cache
+c:\users\mufid\source\repos\TextReader\TextReader\obj\Debug\TextReader.exe
+c:\users\mufid\source\repos\TextReader\TextReader\obj\Debug\TextReader.pdb

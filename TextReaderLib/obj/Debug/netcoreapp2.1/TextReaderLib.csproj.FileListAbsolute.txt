@@ -1,0 +1,9 @@
+c:\users\mufid\source\repos\TextReader\TextReaderLib\bin\Debug\netcoreapp2.1\TextReaderLib.deps.json
+c:\users\mufid\source\repos\TextReader\TextReaderLib\bin\Debug\netcoreapp2.1\TextReaderLib.dll
+c:\users\mufid\source\repos\TextReader\TextReaderLib\bin\Debug\netcoreapp2.1\TextReaderLib.pdb
+c:\users\mufid\source\repos\TextReader\TextReaderLib\obj\Debug\netcoreapp2.1\TextReaderLib.csprojAssemblyReference.cache
+c:\users\mufid\source\repos\TextReader\TextReaderLib\obj\Debug\netcoreapp2.1\TextReaderLib.csproj.CoreCompileInputs.cache
+c:\users\mufid\source\repos\TextReader\TextReaderLib\obj\Debug\netcoreapp2.1\TextReaderLib.AssemblyInfoInputs.cache
+c:\users\mufid\source\repos\TextReader\TextReaderLib\obj\Debug\netcoreapp2.1\TextReaderLib.AssemblyInfo.cs
+c:\users\mufid\source\repos\TextReader\TextReaderLib\obj\Debug\netcoreapp2.1\TextReaderLib.dll
+c:\users\mufid\source\repos\TextReader\TextReaderLib\obj\Debug\netcoreapp2.1\TextReaderLib.pdb

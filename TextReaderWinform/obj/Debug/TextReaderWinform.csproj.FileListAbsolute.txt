@@ -1,0 +1,10 @@
+c:\users\mufid\source\repos\TextReader\TextReaderWinform\bin\Debug\TextReaderWinform.exe.config
+c:\users\mufid\source\repos\TextReader\TextReaderWinform\bin\Debug\TextReaderWinform.exe
+c:\users\mufid\source\repos\TextReader\TextReaderWinform\bin\Debug\TextReaderWinform.pdb
+c:\users\mufid\source\repos\TextReader\TextReaderWinform\obj\Debug\TextReaderWinform.csprojAssemblyReference.cache
+c:\users\mufid\source\repos\TextReader\TextReaderWinform\obj\Debug\TextReaderWinform.Properties.Resources.resources
+c:\users\mufid\source\repos\TextReader\TextReaderWinform\obj\Debug\TextReaderWinform.csproj.GenerateResource.cache
+c:\users\mufid\source\repos\TextReader\TextReaderWinform\obj\Debug\TextReaderWinform.csproj.CoreCompileInputs.cache
+c:\users\mufid\source\repos\TextReader\TextReaderWinform\obj\Debug\TextReaderWinform.exe
+c:\users\mufid\source\repos\TextReader\TextReaderWinform\obj\Debug\TextReaderWinform.pdb
+c:\users\mufid\source\repos\TextReader\TextReaderWinform\obj\Debug\TextReaderWinform.MainForm.resources
